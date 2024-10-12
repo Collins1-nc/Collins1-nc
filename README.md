@@ -1,19 +1,19 @@
 
-# Hi, I'm Collins! 👋
+- # Hi, I'm Collins! 👋
 
 
-## A data-driven enthusiast passionate about extracting insights from raw information.
+- ## A data-driven enthusiast passionate about extracting insights from raw information.
  
 
-🧠 I'm currently learning python.
+- 🧠 I'm currently learning python.
 
-👯‍♀️ I'm looking to collaborate on data analysis projects, volunteer, internship or otherwise.
+- 👯‍♀️ I'm looking to collaborate on data analysis projects, volunteer, internship or otherwise.
 
-💬 Ask me about data related problems and solutions. 
+- 💬 Ask me about data related problems and solutions. 
 
-📫 Contact me at: collinschukwualuka1@gmail.com 
+- 📫 Contact me at: collinschukwualuka1@gmail.com 
 
-⚡️ Fun fact: The term "data mining" was coined in the 1990s.
+- ⚡️ Fun fact: The term "data mining" was coined in the 1990s.
 
 
 
